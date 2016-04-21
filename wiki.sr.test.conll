@@ -2025,4 +2025,3 @@
 12	nezavisna	nezavisan	A	Agpfsny	Type=general|Degree=positive|Gender=feminine|Number=singular|Case=nominative|Definiteness=yes	11	Atr	10:conj	UposTag=ADJ|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing
 13	država	država	N	Ncfsn	Type=common|Gender=feminine|Number=singular|Case=nominative	8	Pnom	8:xcomp	UposTag=NOUN|Case=Nom|Gender=Fem|Number=Sing
 14	.	.	Z	Z	_	0	Punc	8:punct	UposTag=PUNCT
-

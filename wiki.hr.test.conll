@@ -1964,4 +1964,3 @@
 12	napisao	napisati	V	Vmp-sm	Type=main|VForm=participle|Number=singular|Gender=masculine	0	Pred	0:root	UposTag=VERB|Gender=Masc|Number=Sing|VerbForm=Part
 13	Euklid	Euklid	N	Npmsn	Type=proper|Gender=masculine|Number=singular|Case=nominative	12	Sb	12:nsubj	UposTag=PROPN|Case=Nom|Gender=Masc|Number=Sing
 14	.	.	Z	Z	_	0	Punc	12:punct	UposTag=PUNCT
-
